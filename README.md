@@ -1,2 +1,2 @@
 # FPGA-DB
-Some small programs based on the FPGA development board, the model of the development board is EP4CE6F17C8N.
+Some small programs based on the FPGA development board. The model of the development board is EP4CE6F17C8N.
